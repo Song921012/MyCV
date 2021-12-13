@@ -41,8 +41,7 @@ School of mathematics and statistics,Xi'an Jiaotong University
 
 # Grants
 - China Postdoctoral Science Foundation (No. 2020M683445), 2020-2022
-- National Natural Science Foundation
-of China (NSFC, 12101487(PS)), 2022-2024
+- National Natural Science Foundation of China (NSFC, 12101487(PS)), 2022-2024
 
 # Research Interests and experiences
 Research interests:
