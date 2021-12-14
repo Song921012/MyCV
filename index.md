@@ -1,22 +1,18 @@
 @def title = "CV of Pengfei Song"
 
+# Basic Information
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Pengfei Song</h1>
-      <p><b>Doctor of Philosophy (Mathematics)</b></p>
-      <p><b>Xi'an Jiaotong University</b></p>
-      <p><b>Email: aidishage@gmail.com</b></p>
-      <p><b>No.28 Xianning west road, Shaanxi Province, China, 710049
-School of mathematics and statistics,Xi'an Jiaotong University</b></p>
-    </td>
-    <td width="25%">
-      <img src="photo.jpg" width="100%"> 
-    </td>
-  </tr>
-</table>
+- Name: Pengfei Song
 
+- Gender: Male
+
+- Birth data: 1991/01/21
+
+- Email: aidishage@gmail.com
+    
+- Address: No.28 Xianning west road, Shaanxi Province, China, 710049
+School of mathematics and statistics,Xi'an Jiaotong University
+   
  
 # Work Experience
 
