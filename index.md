@@ -6,7 +6,7 @@
 
 - Gender: Male
 
-- Birth data: 1991/01/21
+- Doctor of Philosophy (Mathematics)
 
 - Email: aidishage@gmail.com
     
