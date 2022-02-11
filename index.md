@@ -44,6 +44,8 @@ School of mathematics and statistics,Xi'an Jiaotong University
 - National Natural Science Foundation of China (NSFC, 12101487(PS)), 2022-2024
 
 # Research Interests and experiences
+![Projects Ongoing](MyProjects.png)
+
 Research interests:
 
 - Couple of Machine Learning and Differential Equations
