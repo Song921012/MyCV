@@ -65,6 +65,9 @@ Research experiences:
 - Mathematical modeling and stochastic simulation of measles and H7N9 in China. (Supervised By Prof Yanni, Xiao)
 - Effects of discontinuous disease management strategy on dynamics of infection. (Supervised By Prof Yanni, Xiao)
 
+# My Talks
+
+[MathEpiDeepLearningTutorial/Talk at main · Song921012/MathEpiDeepLearningTutorial](https://github.com/Song921012/MathEpiDeepLearningTutorial/tree/main/Talk)
 
 # Software Skills
 - Julia
