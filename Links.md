@@ -45,7 +45,13 @@ NormalTutorial:
 
 [MathEpiDeepLearningTutorial: Tutorials on math epidemiology and epidemiology informed deep learning methods](https://github.com/Song921012/MathEpiDeepLearningTutorial)
 
+Packages Collections and Study Resources link:
+
 [MathEpiDeepLearning: Awesome-spatial-temporal-data-mining-packages.](https://github.com/Song921012/MathEpiDeepLearning)
+
+How to Research:
+
+[How2Research](https://how2research.herokuapp.com/)
 
 ## Private Github Repos (Personal Views Only)
 
